@@ -1,0 +1,40 @@
+2023-Oct-14 08:08:47 [main] INFO  c.c.SpringbootMavenCourseMicroSvcApplication       - Starting SpringbootMavenCourseMicroSvcApplication using Java 11.0.11 on LAPTOP-17HRIJ4D with PID 20116 (C:\Users\muppa\IdeaProjects\springboot-log4j-kibana\target\classes started by muppa in C:\Users\muppa\IdeaProjects\springboot-log4j-kibana)
+2023-Oct-14 08:08:47 [main] INFO  c.c.SpringbootMavenCourseMicroSvcApplication       - No active profile set, falling back to 1 default profile: "default"
+2023-Oct-14 08:08:49 [main] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat initialized with port(s): 8090 (http)
+2023-Oct-14 08:08:49 [main] INFO  o.a.c.h.Http11NioProtocol                          - Initializing ProtocolHandler ["http-nio-8090"]
+2023-Oct-14 08:08:49 [main] INFO  o.a.c.c.StandardService                            - Starting service [Tomcat]
+2023-Oct-14 08:08:49 [main] INFO  o.a.c.c.StandardEngine                             - Starting Servlet engine: [Apache Tomcat/9.0.78]
+2023-Oct-14 08:08:49 [main] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring embedded WebApplicationContext
+2023-Oct-14 08:08:49 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1519 ms
+2023-Oct-14 08:08:49 [main] INFO  o.s.b.a.e.w.EndpointLinksResolver                  - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-Oct-14 08:08:49 [main] INFO  o.a.c.h.Http11NioProtocol                          - Starting ProtocolHandler ["http-nio-8090"]
+2023-Oct-14 08:08:49 [main] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat started on port(s): 8090 (http) with context path ''
+2023-Oct-14 08:08:49 [main] INFO  c.c.SpringbootMavenCourseMicroSvcApplication       - Started SpringbootMavenCourseMicroSvcApplication in 2.639 seconds (JVM running for 3.492)
+2023-Oct-14 08:10:18 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-Oct-14 08:10:18 [http-nio-8090-exec-1] INFO  o.s.w.s.DispatcherServlet                          - Initializing Servlet 'dispatcherServlet'
+2023-Oct-14 08:10:18 [http-nio-8090-exec-1] INFO  o.s.w.s.DispatcherServlet                          - Completed initialization in 1 ms
+2023-Oct-14 08:10:18 [http-nio-8090-exec-1] INFO  c.c.BackendController                              - Incoming request at Service-1 for request /path1 
+2023-Oct-14 08:10:18 [http-nio-8090-exec-1] INFO  c.c.BackendController                              - Incoming request completed and sending response
+2023-Oct-14 08:10:19 [http-nio-8090-exec-2] INFO  c.c.BackendController                              - Incoming request at Service-1 for request /path1 
+2023-Oct-14 08:10:19 [http-nio-8090-exec-2] INFO  c.c.BackendController                              - Incoming request completed and sending response
+2023-Oct-14 08:10:20 [http-nio-8090-exec-3] INFO  c.c.BackendController                              - Incoming request at Service-1 for request /path1 
+2023-Oct-14 08:10:20 [http-nio-8090-exec-3] INFO  c.c.BackendController                              - Incoming request completed and sending response
+2023-Oct-14 08:11:23 [main] INFO  c.c.SpringbootMavenCourseMicroSvcApplication       - Starting SpringbootMavenCourseMicroSvcApplication using Java 11.0.11 on LAPTOP-17HRIJ4D with PID 22980 (C:\Users\muppa\IdeaProjects\springboot-log4j-kibana\target\classes started by muppa in C:\Users\muppa\IdeaProjects\springboot-log4j-kibana)
+2023-Oct-14 08:11:23 [main] INFO  c.c.SpringbootMavenCourseMicroSvcApplication       - No active profile set, falling back to 1 default profile: "default"
+2023-Oct-14 08:11:24 [main] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat initialized with port(s): 8090 (http)
+2023-Oct-14 08:11:24 [main] INFO  o.a.c.h.Http11NioProtocol                          - Initializing ProtocolHandler ["http-nio-8090"]
+2023-Oct-14 08:11:24 [main] INFO  o.a.c.c.StandardService                            - Starting service [Tomcat]
+2023-Oct-14 08:11:24 [main] INFO  o.a.c.c.StandardEngine                             - Starting Servlet engine: [Apache Tomcat/9.0.78]
+2023-Oct-14 08:11:24 [main] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring embedded WebApplicationContext
+2023-Oct-14 08:11:24 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1262 ms
+2023-Oct-14 08:11:25 [main] INFO  o.s.b.a.e.w.EndpointLinksResolver                  - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-Oct-14 08:11:25 [main] INFO  o.a.c.h.Http11NioProtocol                          - Starting ProtocolHandler ["http-nio-8090"]
+2023-Oct-14 08:11:25 [main] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat started on port(s): 8090 (http) with context path ''
+2023-Oct-14 08:11:25 [main] INFO  c.c.SpringbootMavenCourseMicroSvcApplication       - Started SpringbootMavenCourseMicroSvcApplication in 2.223 seconds (JVM running for 2.99)
+2023-Oct-14 08:11:44 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-Oct-14 08:11:44 [http-nio-8090-exec-1] INFO  o.s.w.s.DispatcherServlet                          - Initializing Servlet 'dispatcherServlet'
+2023-Oct-14 08:11:44 [http-nio-8090-exec-1] INFO  o.s.w.s.DispatcherServlet                          - Completed initialization in 1 ms
+2023-Oct-14 08:11:44 [http-nio-8090-exec-1] INFO  c.c.BackendController                              - Incoming request at Service-1 for request /path1 
+2023-Oct-14 08:11:44 [http-nio-8090-exec-1] INFO  c.c.BackendController                              - Incoming request completed and sending response
+2023-Oct-14 08:11:45 [http-nio-8090-exec-2] INFO  c.c.BackendController                              - Incoming request at Service-1 for request /path1 
+2023-Oct-14 08:11:45 [http-nio-8090-exec-2] INFO  c.c.BackendController                              - Incoming request completed and sending response

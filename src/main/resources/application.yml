@@ -1,0 +1,4 @@
+opentracing:
+  jaeger:
+    http-sender:
+      url: http://3.83.50.179:14268/api/traces
